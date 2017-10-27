@@ -16,8 +16,8 @@ class SupportVectorMachine:
         self.visualization = visualization
         self.colors = {1: 'r', -1:'b'}
         if(self.visualization):
-            self.fig = plt.gigure()
-            self.ax = self.fig.add_subplot(1,1,1)
+            self.fig = plt.gigure() #actual figure to the  whole window
+            self.ax = self.fig.add_subplot(1,1'''1X1 grid''',1'''plot 1 but theres only 1 in this case''')
 
 data_dict = {-1: np.arrar([[1,7],[2,8], [3,8]]),
              1:np.array([[5,1], [6,-1], [7,3]]) }
