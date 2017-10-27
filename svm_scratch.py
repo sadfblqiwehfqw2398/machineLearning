@@ -3,7 +3,8 @@
 """
 Created on Fri Oct 27 11:10:20 2017
 
-@author: Har using sentdex
+@author: Har with help from sentdex
+Note: used Object Oriented
 
 This is an optimisation problem
 book to learn convex optimisation(only 1 max or min(possibly global)) from stanford :
